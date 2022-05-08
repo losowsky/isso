@@ -59,3 +59,6 @@ Some popular options are:
   directly to repository of static sites.
 
 * `schnack <https://schnack.cool/>`_, written in Node.js.
+
+*_`Coral <https://github.com/coralproject/talk/>`_, written in Node.js. Requires a
+  `MongoDB <https://www.mongodb.com/>`_ database.
